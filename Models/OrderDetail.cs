@@ -1,0 +1,23 @@
+﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+
+namespace _2130_KhumaloCraft.Models
+{
+    [Table("Order Detail")]
+    public class OrderDetail
+    {
+        public int Id { get; set; }
+        [Required]
+        public int OrderId { get; set; }
+        [Required]
+        public int ProductId { get; set; }
+        [Required]
+        public int Quantity { get; set; }
+        [Required]
+        public double UnitPrice { get; set; }
+        [Required]
+        public Product product { get; set; }
+        public Order Order { get; set; }
+
+    }
+}

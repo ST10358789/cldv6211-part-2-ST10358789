@@ -1,0 +1,297 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Desktop\\2130_KhumaloCraft\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6158D9C-7B2A-4B5B-A128-7DEF81A0D1F4}|KhumaloCraft_2130.csproj|C:\\Users\\lab_services_student\\Desktop\\2130_KhumaloCraft\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6158D9C-7B2A-4B5B-A128-7DEF81A0D1F4}|KhumaloCraft_2130.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6158D9C-7B2A-4B5B-A128-7DEF81A0D1F4}|KhumaloCraft_2130.csproj|c:\\users\\lab_services_student\\desktop\\2130_khumalocraft\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6158D9C-7B2A-4B5B-A128-7DEF81A0D1F4}|KhumaloCraft_2130.csproj|solutionrelative:models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6158D9C-7B2A-4B5B-A128-7DEF81A0D1F4}|KhumaloCraft_2130.csproj|c:\\users\\lab_services_student\\desktop\\2130_khumalocraft\\models\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6158D9C-7B2A-4B5B-A128-7DEF81A0D1F4}|KhumaloCraft_2130.csproj|solutionrelative:models\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6158D9C-7B2A-4B5B-A128-7DEF81A0D1F4}|KhumaloCraft_2130.csproj|c:\\users\\lab_services_student\\desktop\\2130_khumalocraft\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6158D9C-7B2A-4B5B-A128-7DEF81A0D1F4}|KhumaloCraft_2130.csproj|solutionrelative:models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6158D9C-7B2A-4B5B-A128-7DEF81A0D1F4}|KhumaloCraft_2130.csproj|c:\\users\\lab_services_student\\desktop\\2130_khumalocraft\\models\\cartdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6158D9C-7B2A-4B5B-A128-7DEF81A0D1F4}|KhumaloCraft_2130.csproj|solutionrelative:models\\cartdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6158D9C-7B2A-4B5B-A128-7DEF81A0D1F4}|KhumaloCraft_2130.csproj|c:\\users\\lab_services_student\\desktop\\2130_khumalocraft\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6158D9C-7B2A-4B5B-A128-7DEF81A0D1F4}|KhumaloCraft_2130.csproj|solutionrelative:models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6158D9C-7B2A-4B5B-A128-7DEF81A0D1F4}|KhumaloCraft_2130.csproj|C:\\Users\\lab_services_student\\Desktop\\2130_KhumaloCraft\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6158D9C-7B2A-4B5B-A128-7DEF81A0D1F4}|KhumaloCraft_2130.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6158D9C-7B2A-4B5B-A128-7DEF81A0D1F4}|KhumaloCraft_2130.csproj|c:\\users\\lab_services_student\\desktop\\2130_khumalocraft\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6158D9C-7B2A-4B5B-A128-7DEF81A0D1F4}|KhumaloCraft_2130.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6158D9C-7B2A-4B5B-A128-7DEF81A0D1F4}|KhumaloCraft_2130.csproj|c:\\users\\lab_services_student\\desktop\\2130_khumalocraft\\views\\products\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6158D9C-7B2A-4B5B-A128-7DEF81A0D1F4}|KhumaloCraft_2130.csproj|solutionrelative:views\\products\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6158D9C-7B2A-4B5B-A128-7DEF81A0D1F4}|KhumaloCraft_2130.csproj|C:\\Users\\lab_services_student\\Desktop\\2130_KhumaloCraft\\models\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6158D9C-7B2A-4B5B-A128-7DEF81A0D1F4}|KhumaloCraft_2130.csproj|solutionrelative:models\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6158D9C-7B2A-4B5B-A128-7DEF81A0D1F4}|KhumaloCraft_2130.csproj|C:\\Users\\lab_services_student\\Desktop\\2130_KhumaloCraft\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6158D9C-7B2A-4B5B-A128-7DEF81A0D1F4}|KhumaloCraft_2130.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6158D9C-7B2A-4B5B-A128-7DEF81A0D1F4}|KhumaloCraft_2130.csproj|C:\\Users\\lab_services_student\\Desktop\\2130_KhumaloCraft\\views\\home\\mywork.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6158D9C-7B2A-4B5B-A128-7DEF81A0D1F4}|KhumaloCraft_2130.csproj|solutionrelative:views\\home\\mywork.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6158D9C-7B2A-4B5B-A128-7DEF81A0D1F4}|KhumaloCraft_2130.csproj|C:\\Users\\lab_services_student\\Desktop\\2130_KhumaloCraft\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6158D9C-7B2A-4B5B-A128-7DEF81A0D1F4}|KhumaloCraft_2130.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6158D9C-7B2A-4B5B-A128-7DEF81A0D1F4}|KhumaloCraft_2130.csproj|C:\\Users\\lab_services_student\\Desktop\\2130_KhumaloCraft\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6158D9C-7B2A-4B5B-A128-7DEF81A0D1F4}|KhumaloCraft_2130.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6158D9C-7B2A-4B5B-A128-7DEF81A0D1F4}|KhumaloCraft_2130.csproj|C:\\Users\\lab_services_student\\Desktop\\2130_KhumaloCraft\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6158D9C-7B2A-4B5B-A128-7DEF81A0D1F4}|KhumaloCraft_2130.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6158D9C-7B2A-4B5B-A128-7DEF81A0D1F4}|KhumaloCraft_2130.csproj|C:\\Users\\lab_services_student\\Desktop\\2130_KhumaloCraft\\views\\identity\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6158D9C-7B2A-4B5B-A128-7DEF81A0D1F4}|KhumaloCraft_2130.csproj|solutionrelative:views\\identity\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 145,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\2130_KhumaloCraft\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\2130_KhumaloCraft\\Models\\AppUser.cs",
+              "RelativeToolTip": "Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T18:20:41.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\2130_KhumaloCraft\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "Models\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\2130_KhumaloCraft\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "Models\\OrderDetail.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T18:18:09.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CartDetail.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\2130_KhumaloCraft\\Models\\CartDetail.cs",
+              "RelativeDocumentMoniker": "Models\\CartDetail.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\2130_KhumaloCraft\\Models\\CartDetail.cs",
+              "RelativeToolTip": "Models\\CartDetail.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T18:03:56.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\2130_KhumaloCraft\\Models\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "Models\\ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\2130_KhumaloCraft\\Models\\ShoppingCart.cs",
+              "RelativeToolTip": "Models\\ShoppingCart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T18:02:22.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\2130_KhumaloCraft\\Models\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "Models\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\2130_KhumaloCraft\\Models\\OrderStatus.cs",
+              "RelativeToolTip": "Models\\OrderStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T18:00:16.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\2130_KhumaloCraft\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\2130_KhumaloCraft\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T17:57:05.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\2130_KhumaloCraft\\Views\\Products\\Add.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Add.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\2130_KhumaloCraft\\Views\\Products\\Add.cshtml",
+              "RelativeToolTip": "Views\\Products\\Add.cshtml",
+              "ViewState": "AQIAAA4AAAAAAAAAAADwvx0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T17:09:12.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductVM.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\2130_KhumaloCraft\\Models\\ProductVM.cs",
+              "RelativeDocumentMoniker": "Models\\ProductVM.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\2130_KhumaloCraft\\Models\\ProductVM.cs",
+              "RelativeToolTip": "Models\\ProductVM.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T17:04:46.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\2130_KhumaloCraft\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\2130_KhumaloCraft\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T14:00:21.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MyWork.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\2130_KhumaloCraft\\Views\\Home\\MyWork.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\MyWork.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\2130_KhumaloCraft\\Views\\Home\\MyWork.cshtml",
+              "RelativeToolTip": "Views\\Home\\MyWork.cshtml",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAAC8AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T13:48:15.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\2130_KhumaloCraft\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\2130_KhumaloCraft\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T13:47:02.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\2130_KhumaloCraft\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\2130_KhumaloCraft\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAAB4AAAB2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T13:38:59.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\2130_KhumaloCraft\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\2130_KhumaloCraft\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAACQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T13:31:15.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\2130_KhumaloCraft\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\2130_KhumaloCraft\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAuwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T12:45:11.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\2130_KhumaloCraft\\Views\\Identity\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Identity\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\2130_KhumaloCraft\\Views\\Identity\\Create.cshtml",
+              "RelativeToolTip": "Views\\Identity\\Create.cshtml",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T12:53:28.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\2130_KhumaloCraft\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\2130_KhumaloCraft\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T11:26:14.425Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
